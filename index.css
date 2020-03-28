@@ -1,0 +1,31 @@
+
+h1{
+	font-family: 'Quicksand', sans-serif;
+	font-size: 40px;
+	text-align: center;
+}
+label{
+	font-family: 'Quicksand', sans-serif;
+	font-size:22px;
+}
+
+li{
+	border: 2px dashed #22858c;
+	font-family: 'Quicksand', sans-serif;
+}
+#addItemButton{
+	width: 80px;
+	height: 30px;
+	margin-left: 25px;
+}
+
+img{
+	width: 100px;
+	height: 100px;
+}
+
+header{
+	display: flex;
+	flex-direction: row;
+	justify-content: center;
+}
